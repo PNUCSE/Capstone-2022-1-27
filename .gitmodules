@@ -1,18 +1,24 @@
 [submodule "webrtc"]
 	path = webrtc
 	url = https://github.com/9orani/webrtc.git
+	branch = develop
 [submodule "database"]
 	path = database
 	url = https://github.com/9orani/database.git
+	branch = main
 [submodule "front"]
 	path = front
 	url = https://github.com/9orani/front.git
+	branch = develop
 [submodule "server"]
 	path = server
 	url = https://github.com/9orani/server.git
+	branch = develop
 [submodule "unity_server"]
 	path = unity_server
 	url = https://github.com/9orani/unity_server.git
+	branch = main
 [submodule "fps-microgame-urs"]
 	path = fps-microgame-urs
 	url = https://github.com/9orani/fps-microgame-urs.git
+	branch = main
