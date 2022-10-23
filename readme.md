@@ -84,6 +84,8 @@
 
 ## 4. 시연 영상
 
+[![부산대학교 정보컴퓨터공학부 소개](https://img.youtube.com/vi/m4HFn9RgF9M/0.jpg)](https://www.youtube.com/watch?v=m4HFn9RgF9M)
+
 ## 5. 설치 및 사용법
 
 클라우드 게이밍 시스템 구축을 위해서는 다음의 환경이 필요합니다.
